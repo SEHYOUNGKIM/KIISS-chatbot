@@ -1,0 +1,8 @@
+openai
+streamlit
+yfinance
+pandas
+matplotlib
+datetime
+prophet
+yahooquery
